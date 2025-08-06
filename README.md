@@ -110,7 +110,24 @@ Then, replace it with your custom version:
 sudo cp /path/to/your/custom/voice.py /usr/local/lib/python3.11/dist-packages/pwnagotchi/voice.py
 ```
 
-Done.
+---
+
+### 3. Use Rickgotchi in German
+
+If you want Rickgotchi to speak German, replace the default translation files:
+
+1. Copy the German `.mo` and `.po` files from this repository:
+
+```bash
+sudo cp voice.mo /usr/local/lib/python3.11/dist-packages/pwnagotchi/locale/de/LC_MESSAGES/
+sudo cp voice.po /usr/local/lib/python3.11/dist-packages/pwnagotchi/locale/de/LC_MESSAGES/
+```
+
+2. Then open your config file and change the language:
+
+```toml
+main.lang = "de"
+```
 
 ---
 
