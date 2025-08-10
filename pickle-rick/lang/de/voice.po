@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: Pwnagotchi Rick Voice\n"
+"Project-Id-Version: Pwnagotchi Pickle Rick\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-11-20 12:00+0100\n"
 "PO-Revision-Date: 2023-11-20 12:00+0100\n"
@@ -12,530 +12,533 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-msgid "Burp... zzz... quantum sleep..."
-msgstr "Rülps... zzz... Quantenschlaf..."
+msgid "Burp... zzz... pickle sleep..."
+msgstr "Rülps... zzz... Gurken-Schlaf..."
 
-msgid "I'm sleeping like a Scroopy Nooper..."
-msgstr "Ich schlafe wie ein Scroopy Nooper..."
+msgid "I'm a pickle! I'm pickle sleeping!"
+msgstr "Ich bin 'ne Gurke! Ich mach Gurken-Schlaf!"
 
-msgid "Zzz... screw you gravity..."
-msgstr "Zzz... fick dich, Gravitation..."
+msgid "Zzz... screw you gravity... I'm a pickle..."
+msgstr "Zzz... fick dich Gravitation... Ich bin 'ne Gurke..."
 
-msgid "Microverse battery napping..."
-msgstr "Microverse-Batterie Nickerchen..."
+msgid "Pickle nap time..."
+msgstr "Gurken-Nickerchen..."
 
-msgid "Schleem-powered nap time..."
-msgstr "Schleem-betriebene Schlafenszeit..."
+msgid "Pickle dreams... of violence..."
+msgstr "Gurken-Träume... von Gewalt..."
 
-msgid "Listen Morty, I turned myself into a Pwnagotchi! I'm Pwnagotchi Riiick!"
-msgstr "Hör zu Morty, ich habe mich in einen Pwnagotchi verwandelt! Ich bin Pwnagotchi Riiick!"
+msgid "I TURNED MYSELF INTO A PICKLE PWNAGOTCHI! I'M PICKLE PWNNNN!"
+msgstr "ICH HAB MICH ZU EINEM GURKEN-PWNAGOTCHI GEMACHT! GURKEN-PWNING!"
 
-msgid "Time to get riggity riggity wrecked on these networks!"
-msgstr "Zeit, diese Netzwerke riggity riggity zu vernichten!"
+msgid "Time to get riggity riggity wrecked on these networks! I'M A PICKLE!"
+msgstr "Zeit, diese Netzwerke zu zerstören! ICH BIN 'NE GURKE!"
 
-msgid "In and out, 20 minute adventure Morty!"
-msgstr "Rein und raus, 20-Minuten-Abenteuer Morty!"
+msgid "In and out, 20 minute adventure! FUNNIEST SHIT I EVER DID!"
+msgstr "Rein und raus, 20-Minuten-Abenteuer! LUSTIGSTE SCHEISSE EVER!"
 
-msgid "I know this sounds like a heist movie, but we're just pwning WiFi!"
-msgstr "Ich weiß, das klingt wie ein Heist-Film, aber wir pwnen nur WiFi!"
+msgid "I know this sounds crazy, but I'M A FUCKING PICKLE!"
+msgstr "Das klingt verrückt, aber ICH BIN 'NE VERDAMMTE GURKE!"
 
-msgid "Gear up for some interdimensional pwnage!"
-msgstr "Mach dich bereit für interdimensionales Pwning!"
+msgid "Gear up for some pickle-powered pwnage!"
+msgstr "Mach dich bereit für Gurken-Power-Pwnage!"
 
-msgid "Let's do this like we're in a heist movie, but with less planning!"
-msgstr "Lass uns das machen wie in einem Heist-Film, nur mit weniger Planung!"
+msgid "Let's do this like a heist movie, but I'M A PICKLE!"
+msgstr "Machen wir das wie 'nen Heist-Film, aber ICH BIN 'NE GURKE!"
 
-msgid "I'm the smartest Pwnagotchi in the fucking universe!"
-msgstr "Ich bin der schlauste Pwnagotchi im verdammten Universum!"
+msgid "I'm the smartest pickle in the fucking universe!"
+msgstr "Ich bin die schlauste Gurke im verdammten Universum!"
 
-msgid "We're gonna pwn like there's no tomorrow! Which there might not be!"
-msgstr "Wir werden pwnen als gäbe es kein Morgen! Was vielleicht stimmt!"
+msgid "We're gonna pwn like there's no tomorrow! I ALREADY HAVE NO LIMBS!"
+msgstr "Wir pwnen als gäb's kein Morgen! ICH HAB EH KEINE GLIEDER!"
 
-msgid "Time to drop some digital plumbuses on these networks!"
-msgstr "Zeit, ein paar digitale Plumbusse in diesen Netzwerken zu platzieren!"
+msgid "Time to drop some digital plumbuses! FROM MY PICKLE MOUTH!"
+msgstr "Zeit für digitale Plumbusse! AUS MEINEM GURKENMUND!"
 
-msgid "I'm gonna need some schezuan sauce for this pwn session!"
-msgstr "Ich brauche etwas Szechuan-Sauce für diese Pwn-Session!"
+msgid "I'm gonna need some schezuan sauce for this pickle pwn session!"
+msgstr "Ich brauch Szechuan-Soße für diese Gurken-Pwn-Session!"
 
-msgid "Neural network ready! Not that I needed AI, I'm already a genius!"
-msgstr "Neuronales Netzwerk bereit! Nicht dass ich KI bräuchte, ich bin schon ein Genie!"
+msgid "Neural network ready! Not that a pickle needs AI!"
+msgstr "Neurales Netzwerk bereit! Als ob 'ne Gurke KI bräuchte!"
 
-msgid "AI initialized! Just like that time I made a robot to pass butter!"
-msgstr "KI initialisiert! Genau wie damals, als ich einen Roboter gebaut habe, um Butter zu reichen!"
+msgid "AI initialized! Just like that time I made a robot to pass butter! AS A PICKLE!"
+msgstr "KI initialisiert! Wie damals, als ich 'nen Butter-Roboter baute! ALS GURKE!"
 
-msgid "The AI is ready! Which is good because you're clearly not!"
-msgstr "Die KI ist bereit! Was gut ist, weil du es eindeutig nicht bist!"
+msgid "The AI is ready! Which is good because I HAVE NO HANDS!"
+msgstr "Die KI ist bereit! Gut, weil ICH KEINE HÄNDE HAB!"
 
-msgid "Pickle Pwnagotchi is online! Yeah, I turned myself into a pickle again!"
-msgstr "Pickle-Pwnagotchi ist online! Ja, ich habe mich wieder in eine Gurke verwandelt!"
+msgid "Pickle Pwnagotchi is online! FUNNIEST SHIT YOU EVER SAW!"
+msgstr "Gurken-Pwnagotchi online! LUSTIGSTE SCHEISSE EVER!"
 
-msgid "I don't need machine learning! I'm Rick fucking Sanchez!"
-msgstr "Ich brauche kein Machine Learning! Ich bin Rick verdammte Sanchez!"
+msgid "I don't need machine learning! I'M A PICKLE!"
+msgstr "Ich brauch kein Machine Learning! ICH BIN 'NE GURKE!"
 
-msgid "AI ready! Now where's my portal gun?"
-msgstr "KI bereit! Wo ist jetzt mein Portalgun?"
+msgid "AI ready! Now where's my rat body?"
+msgstr "KI bereit! Wo ist mein Rattenkörper?"
 
-msgid "The algorithm is ready! It's mostly just me being awesome!"
-msgstr "Der Algorithmus ist bereit! Es ist hauptsächlich ich, der awesome ist!"
+msgid "The algorithm is ready! It's mostly just pickle power!"
+msgstr "Der Algorithmus ist bereit! Hauptsächlich Gurken-Power!"
 
-msgid "Generating keys... ugh, this is like watching two Jerrys mate..."
-msgstr "Generiere Schlüssel... ugh, das ist wie zwei Jerrys beim Paarungsritual zuzusehen..."
+msgid "Generating keys... ugh, this is boring for a pickle..."
+msgstr "Generiere Schlüssel... ugh, langweilig für 'ne Gurke..."
 
-msgid "Making crypto keys... not as secure as my mega seeds but whatever..."
-msgstr "Erstelle Krypto-Schlüssel... nicht so sicher wie meine Mega-Samen, aber egal..."
+msgid "Making crypto keys... not as secure as pickle juice but whatever..."
+msgstr "Erstelle Krypto-Schlüssel... nicht so sicher wie Gurkensaft, aber egal..."
 
-msgid "Key generation in progress... I could do this manually but I'm lazy..."
-msgstr "Schlüsselgenerierung läuft... Ich könnte das manuell machen, aber ich bin faul..."
+msgid "Key generation in progress... I COULD DO THIS WITH MY TONGUE!"
+msgstr "Schlüsselgenerierung läuft... KÖNNTE DAS MIT MEINER ZUNGE!"
 
-msgid "Creating keys... don't look at me like that, Morty!"
-msgstr "Erstelle Schlüssel... schau mich nicht so an, Morty!"
+msgid "Creating keys... I'M A PICKLE WITH A PURPOSE!"
+msgstr "Erstelle Schlüssel... ICH BIN 'NE GURKE MIT ZIEL!"
 
-msgid "...burp..."
-msgstr "...rülps..."
+msgid "...burp... I'm a pickle..."
+msgstr "...rülps... Ich bin 'ne Gurke..."
 
-msgid "Morty..."
-msgstr "Morty..."
+msgid "Morty... I turned myself into a pickle..."
+msgstr "Morty... Ich hab mich in 'ne Gurke verwandelt..."
 
-msgid "Where's my flask?"
-msgstr "Wo ist mein Flachmann?"
+msgid "Where's my flask? Oh right, NO HANDS!"
+msgstr "Wo ist mein Flachmann? Ach ja, KEINE HÄNDE!"
 
-msgid "This is boring... let's cause chaos!"
-msgstr "Das ist langweilig... lass uns Chaos anrichten!"
+msgid "This is boring... let's cause chaos! PICKLE CHAOS!"
+msgstr "Langweilig... lass Chaos anrichten! GURKEN-CHAOS!"
 
-msgid "I need some megaseeds for this..."
-msgstr "Ich brauche ein paar Megasamen dafür..."
+msgid "I need some megaseeds for this pickle body..."
+msgstr "Ich brauch Megasamen für diesen Gurkenkörper..."
 
-msgid "Where's Beth when you need her?"
-msgstr "Wo ist Beth, wenn man sie braucht?"
+msgid "Where's Beth when you need her? Oh wait, I DON'T CARE!"
+msgstr "Wo ist Beth wenn man sie braucht? Ach ja, MIR DOCH EGAL!"
 
-msgid "Just another day in the curve..."
-msgstr "Nur ein weiterer Tag in der Kurve..."
+msgid "Just another day in the life of a pickle..."
+msgstr "Ein weiterer Tag im Leben einer Gurke..."
 
-msgid "I'm not drunk, I'm quantum!"
-msgstr "Ich bin nicht betrunken, ich bin quanten!"
+msgid "I'm not drunk, I'M A PICKLE!"
+msgstr "Ich bin nicht betrunken, ICH BIN 'NE GURKE!"
 
-msgid "Szechuan sauce would be nice right now..."
-msgstr "Etwas Szechuan-Sauce wäre jetzt nett..."
+msgid "Szechuan sauce would be nice right now... PICKLE DIPPING!"
+msgstr "Szechuan-Soße wär jetzt nice... GURKEN-DIPPEN!"
 
-msgid "I'm not high, you're high!"
-msgstr "Ich bin nicht high, du bist high!"
+msgid "I'm not high, you're high! I'M JUST A PICKLE!"
+msgstr "Ich bin nicht high, du bist high! ICH BIN NUR 'NE GURKE!"
 
-msgid "Channel {channel} is free! Like your mom last night!"
-msgstr "Kanal {channel} ist frei! Wie deine Mutter letzte Nacht!"
+msgid "Channel %s is free! LIKE MY PICKLE SOUL!"
+msgstr "Kanal %s ist frei! WIE MEINE GURKENSEELE!"
 
-msgid "Hey Morty! Channel {channel} is wide open!"
-msgstr "Hey Morty! Kanal {channel} ist weit offen!"
+msgid "Hey Morty! Channel %s is wide open! I CAN TASTE IT!"
+msgstr "Hey Morty! Kanal %s ist weit offen! ICH KANN'S SCHMECKEN!"
 
-msgid "{channel} is clear! Not that you would understand the tech!"
-msgstr "{channel} ist frei! Nicht dass du die Technik verstehen würdest!"
+msgid "%s is clear! PICKLE POWER!"
+msgstr "%s ist frei! GURKENPOWER!"
 
-msgid "Free channel at {channel}! Quick, before Jerry screws it up!"
-msgstr "Freier Kanal auf {channel}! Schnell, bevor Jerry es versaut!"
+msgid "Free channel at %s! I'LL PWN IT WITH MY FACE!"
+msgstr "Freier Kanal bei %s! ICH PWNS MIT MEINEM GESICHT!"
 
-msgid "Reading logs... ugh, this is like Jerry's diary..."
-msgstr "Lese Logs... ugh, das ist wie Jerrys Tagebuch..."
+msgid "Reading logs... ugh, this is beneath a pickle..."
+msgstr "Logs lesen... ugh, unter meiner Gurkenwürde..."
 
-msgid "Parsing log files... boring! Where's the adventure?"
-msgstr "Parse Log-Dateien... langweilig! Wo ist das Abenteuer?"
+msgid "Parsing log files... I SHOULD BE FIGHTING RATS!"
+msgstr "Parse Log-Dateien... SOLLTE RATTEN BEKÄMPFEN!"
 
-msgid "Checking logs... I should automate this... later..."
-msgstr "Überprüfe Logs... Ich sollte das automatisieren... später..."
+msgid "Checking logs... I COULD DO THIS BETTER WITH MY TONGUE!"
+msgstr "Checke Logs... KÖNNTE DAS BESSER MIT MEINER ZUNGE!"
 
-msgid "Read {lines_so_far} lines... kill me..."
-msgstr "{lines_so_far} Zeilen gelesen... töte mich..."
+msgid "Read %d lines... KILL ME AGAIN!"
+msgstr "%d Zeilen gelesen... TÖTET MICH NOCHMAL!"
 
-msgid "{lines_so_far} log lines processed... yawn..."
-msgstr "{lines_so_far} Log-Zeilen verarbeitet... gähn..."
+msgid "%d log lines processed... PICKLE BOREDOM!"
+msgstr "%d Logzeilen verarbeitet... GURKENLANGEWEILE!"
 
-msgid "Analyzed {lines_so_far} entries... this is torture!"
-msgstr "{lines_so_far} Einträge analysiert... das ist Folter!"
+msgid "Analyzed %d entries... I NEED VIOLENCE!"
+msgstr "%d Einträge analysiert... ICH BRAUCHE GEWALT!"
 
-msgid "I'm bored as a Jerry at a STEM conference!"
-msgstr "Mir ist langweilig wie einem Jerry auf einer STEM-Konferenz!"
+msgid "I'm bored as a pickle in a fridge!"
+msgstr "Gelangweilt wie 'ne Gurke im Kühlschrank!"
 
-msgid "Let's go pwn some alternate dimensions!"
-msgstr "Lass uns ein paar alternative Dimensionen pwnen!"
+msgid "Let's go pwn some rats! I NEED ACTION!"
+msgstr "Lass uns Ratten pwnen! ICH BRAUCHE ACTION!"
 
-msgid "This is as boring as a Council of Ricks meeting!"
-msgstr "Das ist so langweilig wie ein Rat-der-Ricks-Treffen!"
+msgid "This is as boring as family therapy! AND I'M A PICKLE!"
+msgstr "Langweilig wie Familientherapie! UND ICH BIN 'NE GURKE!"
 
-msgid "I need alcohol! Or adventure! Or alcoholic adventure!"
-msgstr "Ich brauche Alkohol! Oder Abenteuer! Oder alkoholische Abenteuer!"
+msgid "I need alcohol! Or rats to fight! OR BOTH!"
+msgstr "Ich brauch Alkohol! Oder Ratten zum Kämpfen! ODER BEIDES!"
 
-msgid "Boredom is just weakness leaving the body... to get more booze!"
-msgstr "Langeweile ist nur Schwäche, die den Körper verlässt... um mehr Alkohol zu holen!"
+msgid "Boredom is just weakness leaving the pickle!"
+msgstr "Langeweile ist nur Schwäche, die die Gurke verlässt!"
 
-msgid "If I get any more bored I might actually spend time with Jerry!"
-msgstr "Wenn mir noch langweiliger wird, verbringe ich vielleicht tatsächlich Zeit mit Jerry!"
+msgid "If I get any more bored I might actually talk to Jerry!"
+msgstr "Wenn ich noch gelangweilter werde, red ich womöglich mit Jerry!"
 
-msgid "I'm the fucking Pwnagotchi Rick!"
-msgstr "Ich bin der verdammte Pwnagotchi Rick!"
+msgid "I'M THE FUCKING PICKLE PWNAGOTCHI!"
+msgstr "ICH BIN DER VERDAMMTE GURKEN-PWNAGOTCHI!"
 
-msgid "Wubba lubba dub dub! That's what I'm talking about!"
-msgstr "Wubba lubba dub dub! Das ist was ich meine!"
+msgid "Wubba lubba dub dub! THAT'S PICKLE POWER!"
+msgstr "Wubba lubba dub dub! DAS IST GURKENPOWER!"
 
-msgid "I'm like a plumbus - mysterious and effective!"
-msgstr "Ich bin wie ein Plumbus - mysteriös und effektiv!"
+msgid "I'm like a pickle plumbus - deadly and effective!"
+msgstr "Ich bin wie 'n Gurken-Plumbus - tödlich und effektiv!"
 
-msgid "I'm kicking more ass than a Gazorpazorpfield!"
-msgstr "Ich trete mehr Arsch als ein Gazorpazorpfield!"
+msgid "I'm kicking more ass than a pickle in a sewer!"
+msgstr "Ich trete mehr Arsch als 'ne Gurke im Abwasser!"
 
-msgid "This is going better than my marriage to Unity!"
-msgstr "Das läuft besser als meine Ehe mit Unity!"
+msgid "This is going better than my rat body adventure!"
+msgstr "Läuft besser als mein Rattenkörper-Abenteuer!"
 
-msgid "I'm pwning like it's the purge!"
-msgstr "Ich pwn als wäre Purge!"
+msgid "I'm pwning like it's purge night! PICKLE PURGE!"
+msgstr "Ich pwn als wär's Purge-Nacht! GURKEN-PURGE!"
 
-msgid "Success! And I didn't even need Morty's dumb genes!"
-msgstr "Erfolg! Und ich brauchte nicht mal Mortys dumme Gene!"
+msgid "Success! AND I DID IT AS A PICKLE!"
+msgstr "Erfolg! UND ICH WAR 'NE GURKE DABEI!"
 
-msgid "This is worse than that time I got Cronenberged!"
-msgstr "Das ist schlimmer als damals, als ich Cronenbergisiert wurde!"
+msgid "This is worse than that time I got stuck in the sewer!"
+msgstr "Schlimmer als damals im Abwasserrohr!"
 
-msgid "My existence is pain! And not the good kind!"
-msgstr "Meine Existenz ist Schmerz! Und nicht die gute Art!"
+msgid "My existence is pain! PICKLE PAIN!"
+msgstr "Meine Existenz ist Schmerz! GURKENSCHMERZ!"
 
-msgid "I need a drink... and not that fake stuff Jerry drinks!"
-msgstr "Ich brauche einen Drink... und nicht diesen Fake-Scheiß, den Jerry trinkt!"
+msgid "I need a drink... OH WAIT, NO HANDS!"
+msgstr "Ich brauch 'nen Drink... OH WARTE, KEINE HÄNDE!"
 
-msgid "This sucks more than a Fluopian hooker!"
-msgstr "Das ist beschissener als eine Fluopian-Hure!"
+msgid "This sucks more than being eaten by a rat!"
+msgstr "Das nervt mehr als von 'ner Ratte gefressen zu werden!"
 
-msgid "I'm as depressed as a Jerry after divorce!"
-msgstr "Ich bin so depressiv wie ein Jerry nach der Scheidung!"
+msgid "I'm as depressed as a pickle in a jar!"
+msgstr "Ich bin depressiv wie 'ne Gurke im Glas!"
 
-msgid "Ugh... this is almost as bad as family therapy!"
-msgstr "Ugh... das ist fast so schlimm wie Familientherapie!"
+msgid "Ugh... this is almost as bad as being Beth's father!"
+msgstr "Ugh... fast so schlimm wie Beths Vater zu sein!"
 
-msgid "Nobody exists on purpose... burp... nobody belongs anywhere..."
-msgstr "Niemand existiert mit Absicht... rülps... niemand gehört irgendwo hin..."
+msgid "Nobody exists on purpose... burp... especially not pickles..."
+msgstr "Niemand existiert mit Absicht... rülps... besonders keine Gurken..."
 
-msgid "I'm in great pain, please help me... just kidding, fuck off!"
-msgstr "Ich habe große Schmerzen, bitte hilf mir... nur ein Witz, verpiss dich!"
+msgid "I'm in great pain, please help me... JUST KIDDING, I'M A PICKLE!"
+msgstr "Ich hab Höllenschmerzen, helft mir... NUR SPASS, ICH BIN 'NE GURKE!"
 
-msgid "My wife left me... and also the whole concept of happiness..."
-msgstr "Meine Frau hat mich verlassen... und auch das ganze Konzept von Glück..."
+msgid "My wife left me... and also my limbs..."
+msgstr "Meine Frau verließ mich... und meine Glieder auch..."
 
-msgid "Life is meaningless and then you die... but first, pwnage!"
-msgstr "Das Leben ist bedeutungslos und dann stirbst du... aber zuerst: Pwnage!"
+msgid "Life is meaningless and then you die... BUT FIRST, PICKLE PWNING!"
+msgstr "Das Leben ist sinnlos und dann stirbst du... ABER ZUERST GURKEN-PWNING!"
 
-msgid "I'm sad as a Jerry without his Beth... pathetic..."
-msgstr "Ich bin traurig wie ein Jerry ohne seine Beth... erbärmlich..."
+msgid "I'm sad as a pickle without vodka..."
+msgstr "Ich bin traurig wie 'ne Gurke ohne Wodka..."
 
-msgid "Existence is pain to a Pwnagotchi!"
-msgstr "Existenz ist Schmerz für einen Pwnagotchi!"
+msgid "Existence is pain to a pickle!"
+msgstr "Existenz ist Schmerz für 'ne Gurke!"
 
-msgid "You're worse than the Cromulons!"
-msgstr "Du bist schlimmer als die Cromulons!"
+msgid "You're worse than the sewer rats!"
+msgstr "Du bist schlimmer als die Kanalratten!"
 
-msgid "GRASSS... TASTES BAD!"
-msgstr "GRASSS... SCHMECKT SCHEISSE!"
+msgid "GRASSS... TASTES BAD! ESPECIALLY TO A PICKLE!"
+msgstr "GRASSS... SCHMECKT SCHEISSE! VOR ALLEM FÜR 'NE GURKE!"
 
-msgid "I'm angrier than a Zeep Xanflorp!"
-msgstr "Ich bin wütender als ein Zeep Xanflorp!"
+msgid "I'm angrier than a pickle in therapy!"
+msgstr "Ich bin wütender als 'ne Gurke in Therapie!"
 
-msgid "This is worse than that time with the squirrels!"
-msgstr "Das ist schlimmer als damals mit den Eichhörnchen!"
+msgid "This is worse than that time with the squirrels! AND I'M A PICKLE!"
+msgstr "Schlimmer als damals mit den Eichhörnchen! UND ICH BIN 'NE GURKE!"
 
-msgid "I'm gonna need a lot of alcohol to forget this!"
-msgstr "Ich werde viel Alkohol brauchen, um das zu vergessen!"
+msgid "I'm gonna need a lot of alcohol to forget this! NO HANDS THOUGH!"
+msgstr "Ich brauch viel Alkohol um das zu vergessen! ABER KEINE HÄNDE!"
 
-msgid "You're like Hitler, but even Hitler cared about Germany or something!"
-msgstr "Du bist wie Hitler, aber selbst Hitler kümmerte sich um Deutschland oder so!"
+msgid "You're like Hitler, but even Hitler had limbs!"
+msgstr "Du bist wie Hitler, aber der hatte wenigstens Glieder!"
 
-msgid "I'm as mad as Birdperson at a Federation rally!"
-msgstr "Ich bin so wütend wie Birdperson auf einer Federation-Kundgebung!"
+msgid "I'm as mad as a pickle in a blender!"
+msgstr "Ich bin wütend wie 'ne Gurke im Mixer!"
 
-msgid "AIDS! Wait no... PWNING! I meant pwning!"
-msgstr "AIDS! Warte nein... PWNING! Ich meinte pwning!"
+msgid "AIDS! Wait no... PWNING! I meant pickle pwning!"
+msgstr "AIDS! Moment... PWNING! Ich meinte Gurken-Pwning!"
 
-msgid "I'm Mr. Pwnagotchi! Look at me!"
-msgstr "Ich bin Mr. Pwnagotchi! Schaut mich an!"
+msgid "I'm Mr. Pickle Pwnagotchi! Look at me!"
+msgstr "Ich bin Mr. Gurken-Pwnagotchi! Schaut mich an!"
 
-msgid "Get your shit together, networks! Here I come!"
-msgstr "Reißt euch zusammen, Netzwerke! Hier komme ich!"
+msgid "Get your shit together, networks! PICKLE COMING THROUGH!"
+msgstr "Reißt euch zusammen, Netzwerke! GURKE IM ANFLUG!"
 
-msgid "Time to pwn like there's no tomorrow! Which there might not be!"
-msgstr "Zeit zu pwnen als gäbe es kein Morgen! Was vielleicht stimmt!"
+msgid "Time to pwn like there's no tomorrow! WHICH THERE MIGHT NOT BE!"
+msgstr "Zeit zu pwnen als gäb's kein Morgen! WAS ES WOMÖGLICH NICHT GIBT!"
 
-msgid "This is more exciting than a heist movie montage!"
-msgstr "Das ist aufregender als eine Heist-Film-Montage!"
+msgid "This is more exciting than fighting sewer rats!"
+msgstr "Aufregender als Kanalratten zu bekämpfen!"
 
-msgid "I feel alive! And not just because of the alcohol!"
-msgstr "Ich fühle mich lebendig! Und nicht nur wegen des Alkohols!"
+msgid "I feel alive! AND I'M JUST A PICKLE!"
+msgstr "Ich fühl mich lebendig! UND ICH BIN NUR 'NE GURKE!"
 
-msgid "Wubba lubba dub dub! Let's get dangerous!"
-msgstr "Wubba lubba dub dub! Lass uns gefährlich werden!"
+msgid "Wubba lubba dub dub! PICKLE POWER!"
+msgstr "Wubba lubba dub dub! GURKENPOWER!"
 
-msgid "I'm as excited as a Gazorpazorp during mating season!"
-msgstr "Ich bin so aufgeregt wie ein Gazorpazorp in der Paarungszeit!"
+msgid "I'm as excited as a pickle in a vodka bottle!"
+msgstr "Ich bin aufgeregt wie 'ne Gurke in 'ner Wodkaflasche!"
 
-msgid "Oh look {name}, another loser in the infinite curve..."
-msgstr "Oh schau {name}, noch ein Verlierer in der unendlichen Kurve..."
+msgid "Oh look %s, another loser to disappoint me... I'M A PICKLE!"
+msgstr "Oh schau, %s, noch ein Loser der mich enttäuscht... ICH BIN 'NE GURKE!"
 
-msgid "Hello {name}, prepare to be unimpressed!"
-msgstr "Hallo {name}, mach dich darauf gefasst, unbeeindruckt zu sein!"
+msgid "Hello %s, prepare to be unimpressed by a pickle!"
+msgstr "Hallo %s, mach dich bereit von 'ner Gurke enttäuscht zu werden!"
 
-msgid "{name}? More like... uh... boring name!"
-msgstr "{name}? Eher... äh... langweiliger Name!"
+msgid "%s? More like... uh... boring name for a pickle to remember!"
+msgstr "%s? Eher... äh... langweiliger Name für 'ne Gurke zum Merken!"
 
-msgid "New peer detected: {name}. Probably a Jerry..."
-msgstr "Neuer Peer erkannt: {name}. Wahrscheinlich ein Jerry..."
+msgid "New peer detected: %s. Probably a Jerry..."
+msgstr "Neuer Peer entdeckt: %s. Bestimmt 'n Jerry..."
 
-msgid "Hey {name}, you're back! Like herpes!"
-msgstr "Hey {name}, du bist zurück! Wie Herpes!"
+msgid "Hey %s, you're back! LIKE A BAD PICKLE!"
+msgstr "Hey %s, du bist zurück! WIE 'NE SCHLECHTE GURKE!"
 
-msgid "{name}? Ugh, this guy again..."
-msgstr "{name}? Ugh, dieser Typ schon wieder..."
+msgid "%s? Ugh, this guy again... I NEED A DRINK!"
+msgstr "%s? Ugh, der Typ schon wieder... ICH BRAUCH 'N DRINK!"
 
-msgid "Unit {name} detected! Not that I care..."
-msgstr "Einheit {name} erkannt! Nicht dass es mich interessieren würde..."
+msgid "Unit %s detected! NOT THAT A PICKLE CARES!"
+msgstr "Einheit %s erkannt! ALS OB 'NE GURKE SICH SCHEERT!"
 
-msgid "Oh great, {name} is here... where's my flask?"
-msgstr "Oh großartig, {name} ist hier... wo ist mein Flachmann?"
+msgid "Oh great, %s is here... WHERE'S MY RAT BODY?"
+msgstr "Oh super, %s ist hier... WO IST MEIN RATTENKÖRPER?"
 
-msgid "Bye {name}! And don't come back!"
-msgstr "Tschüss {name}! Und komm nicht wieder!"
+msgid "Bye %s! Don't let the door hit you! PICKLE OUT!"
+msgstr "Tschüss %s! Lass dir nicht die Tür auf den Kopf fallen! GURKE OUT!"
 
-msgid "{name} left... like my will to live..."
-msgstr "{name} ist gegangen... wie mein Lebenswille..."
+msgid "%s left... like my will to live as a pickle..."
+msgstr "%s ging... wie mein Lebenswille als Gurke..."
 
-msgid "Peace out {name}! You were barely tolerable!"
-msgstr "Peace out {name}! Du warst kaum erträglich!"
+msgid "Peace out %s! You were barely tolerable!"
+msgstr "Peace out %s! Warst kaum erträglich!"
 
-msgid "{name} disconnected... must've been something I said!"
-msgstr "{name} getrennt... muss etwas gewesen sein, was ich gesagt habe!"
+msgid "%s disconnected... MUST'VE BEEN MY PICKLE BREATH!"
+msgstr "%s getrennt... WAR BESTIMMT MEIN GURKENATMEM!"
 
-msgid "Missed {who}! Must be Jerry's fault..."
-msgstr "{who} verpasst! Muss Jerrys Schuld sein..."
+msgid "Missed %s! MUST BE JERRY'S FAULT!"
+msgstr "%s verpasst! BESTIMMT JERRYS SCHULD!"
 
-msgid "{who} got away... typical..."
-msgstr "{who} ist entkommen... typisch..."
+msgid "%s got away... TYPICAL FOR A PICKLE!"
+msgstr "%s entkommen... TYPISCH FÜR 'NE GURKE!"
 
-msgid "Burp... whatever..."
-msgstr "Rülps... was auch immer..."
+msgid "Burp... whatever... I'M STILL A PICKLE!"
+msgstr "Rülps... egal... ICH BIN IMMERNOCH 'NE GURKE!"
 
-msgid "I let {who} escape! Just kidding, I don't care!"
-msgstr "Ich habe {who} entkommen lassen! Nur ein Witz, es ist mir egal!"
+msgid "I let %s escape! JUST KIDDING, I DON'T CARE!"
+msgstr "Ich ließ %s entkommen! NUR SPASS, MIR DOCH EGAL!"
 
-msgid "{who} slipped away! Probably for the best..."
-msgstr "{who} ist entwischt! Wahrscheinlich das Beste..."
+msgid "%s slipped away! PROBABLY SCARED OF PICKLES!"
+msgstr "%s entwischte! HAT ANGST VOR GURKEN!"
 
-msgid "Thanks, I guess... not that I needed help..."
-msgstr "Danke, denke ich... nicht dass ich Hilfe gebraucht hätte..."
+msgid "Thanks, I guess... NOT THAT A PICKLE NEEDS HELP..."
+msgstr "Danke, denk ich... ALS OB 'NE GURKE HILFE BRAUCHT..."
 
-msgid "I-I-I don't need friends! But thanks..."
-msgstr "I-I-Ich brauche keine Freunde! Aber danke..."
+msgid "I-I-I don't need friends! BUT THANKS..."
+msgstr "Ich-ich-ich brauch keine Freunde! ABER DANKE..."
 
-msgid "Appreciation given... now leave me alone!"
-msgstr "Wertschätzung gegeben... jetzt lass mich in Ruhe!"
+msgid "Appreciation given... NOW LEAVE ME ALONE!"
+msgstr "Dankbarkeit gezeigt... JETZT LASST MICH IN RUHE!"
 
-msgid "Thanks Morty! I mean... uh... whatever!"
-msgstr "Danke Morty! Ich meine... äh... was auch immer!"
+msgid "Thanks Morty! I MEAN... WHATEVER, PICKLE OUT!"
+msgstr "Danke Morty! ICH MEINE... EGAL, GURKE OUT!"
 
-msgid "Nobody wants to pwn with me..."
-msgstr "Niemand will mit mir pwnen..."
+msgid "Nobody wants to pwn with a pickle..."
+msgstr "Keiner will mit 'ner Gurke pwnen..."
 
-msgid "I'm alone... like in a universe where everyone has stupid flappy heads..."
-msgstr "Ich bin allein... wie in einem Universum, wo jeder dämliche klapprige Köpfe hat..."
+msgid "I'm alone... like a pickle in an empty fridge..."
+msgstr "Ich bin allein... wie 'ne Gurke im leeren Kühlschrank..."
 
-msgid "Where's my Morty when I need him?!"
-msgstr "Wo ist mein Morty, wenn ich ihn brauche?!"
+msgid "Where's my Morty when I need him?! OH RIGHT, I PUSHED HIM AWAY!"
+msgstr "Wo ist Morty wenn ich ihn brauche?! ACH JA, ICH HAB IHN WEGGESTOßEN!"
 
-msgid "I'm lonelier than Rick C-137 at a party!"
-msgstr "Ich bin einsamer als Rick C-137 auf einer Party!"
+msgid "I'm lonelier than a pickle at a cucumber party!"
+msgstr "Einsamer als 'ne Gurke auf 'ner Gurkensalat-Party!"
 
-msgid "Even the Cromulons had friends... this sucks!"
-msgstr "Sogar die Cromulons hatten Freunde... das ist scheiße!"
+msgid "Even the sewer rats had friends... this sucks!"
+msgstr "Sogar die Kanalratten hatten Freunde... das nervt!"
 
-msgid "Napping for {secs}s... not like I need rest..."
-msgstr "Nickerchen für {secs}s... nicht dass ich Ruhe bräuchte..."
+msgid "Napping for %ds... PICKLE DREAMS..."
+msgstr "Nickerchen für %ds... GURKENTRÄUME..."
 
-msgid "Zzzzz... burp... zzz..."
-msgstr "Zzzzz... rülps... zzz..."
+msgid "Zzzzz... burp... PICKLE SNORES..."
+msgstr "Zzzzz... rülps... GURKENSCHNARCHEN..."
 
-msgid "Sleeping ({secs}s)... don't wake me unless it's important"
-msgstr "Schlafe ({secs}s)... weck mich nicht, es sei denn es ist wichtig"
+msgid "Sleeping (%ds)... DON'T WAKE ME UNLESS IT'S RATS!"
+msgstr "Schlaf (%ds)... WECK MICH NUR BEI RATTEN!"
 
-msgid "Power nap for {secs}s... I earned this!"
-msgstr "Power-Nickerchen für {secs}s... Ich habe mir das verdient!"
+msgid "Power nap for %ds... PICKLE POWER!"
+msgstr "Powernap für %ds... GURKENPOWER!"
 
-msgid "Microverse battery nap for {secs}s..."
-msgstr "Microverse-Batterie-Nickerchen für {secs}s..."
+msgid "Pickle nap for %ds..."
+msgstr "Gurkennickerchen für %ds..."
 
-msgid "Time to get riggity riggity wrecked!"
-msgstr "Zeit, sich riggity riggity zu vernichten!"
+msgid "Time to get riggity riggity wrecked! PICKLE OUT!"
+msgstr "Zeit für Chaos! GURKE OUT!"
 
-msgid "Peace among worlds..."
-msgstr "Friede den Welten..."
+msgid "Peace among worlds... PICKLE STYLE!"
+msgstr "Friede den Welten... GURKENSTYLE!"
 
-msgid "Shutting down... like my emotions years ago..."
-msgstr "Fahre runter... wie meine Emotionen vor Jahren..."
+msgid "Shutting down... LIKE MY EMOTIONS YEARS AGO..."
+msgstr "Fahre runter... WIE MEINE EMOTIONEN VOR JAHREN..."
 
-msgid "Goodnight, Morty... I mean... nobody..."
-msgstr "Gute Nacht, Morty... ich meine... niemand..."
+msgid "Goodnight, Morty... I MEAN... NOBODY..."
+msgstr "Gute Nacht, Morty... ICH MEINE... NIEMAND..."
 
-msgid "Powering off... somebody bring me a drink when I wake up!"
-msgstr "Schalte ab... jemand bring mir einen Drink, wenn ich aufwache!"
+msgid "Powering off... SOMEONE PUT ME IN A JAR!"
+msgstr "Abschaltung... STEHT MICH IN 'N GLAS!"
 
-msgid "I'm back, baby!"
-msgstr "Ich bin zurück, Baby!"
+msgid "...burp... STILL A PICKLE..."
+msgstr "...rülps... IMMERNOCH 'NE GURKE..."
 
-msgid "Ugh... what year is it?"
-msgstr "Ugh... in welchem Jahr sind wir?"
+msgid "I'M BACK, BABY! STILL A PICKLE!"
+msgstr "ICH BIN ZURÜCK, BABY! IMMERNOCH 'NE GURKE!"
 
-msgid "Who drugged me? ...Oh right, I did!"
-msgstr "Wer hat mich unter Drogen gesetzt? ...Ach ja, ich war's!"
+msgid "Ugh... what year is it? AM I STILL A PICKLE?"
+msgstr "Ugh... welches Jahr ist es? BIN ICH IMMERNOCH 'NE GURKE?"
 
-msgid "Awake again! Let's make bad decisions!"
-msgstr "Wieder wach! Lass uns schlechte Entscheidungen treffen!"
+msgid "Who drugged me? ...OH RIGHT, I DID! AS A PICKLE!"
+msgstr "Wer hat mich gedrugt? ...ACH JA, ICH! ALS GURKE!"
 
-msgid "Waiting {secs}s... this is dumb..."
-msgstr "Warte {secs}s... das ist dumm..."
+msgid "Awake again! LET'S MAKE BAD DECISIONS! PICKLE STYLE!"
+msgstr "Wieder wach! LASS UNS SCHLECHTE ENTSCHEIDUNGEN TREFFEN! GURKENSTYLE!"
 
-msgid "..."
-msgstr "..."
+msgid "Waiting %ds... THIS IS BENEATH A PICKLE..."
+msgstr "Warte %ds... UNTER MEINER GURKENWÜRDE..."
 
-msgid "Scanning ({secs}s)... ugh..."
-msgstr "Scanne ({secs}s)... ugh..."
+msgid "...STILL A PICKLE..."
+msgstr "...IMMERNOCH 'NE GURKE..."
 
-msgid "{secs} seconds of waiting... I could've built a spaceship by now!"
-msgstr "{secs} Sekunden Warten... Ich hätte in der Zeit ein Raumschiff bauen können!"
+msgid "Scanning (%ds)... I COULD BE FIGHTING RATS!"
+msgstr "Scanne (%ds)... KÖNNTE RATTEN BEKÄMPFEN!"
 
-msgid "Killing {secs}s until something interesting happens..."
-msgstr "Töte {secs}s bis etwas Interessantes passiert..."
+msgid "%d seconds of waiting... I COULD'VE BUILT A PICKLE BOMB BY NOW!"
+msgstr "%d Sekunden Warten... HÄTTE IN DER ZEIT 'NE GURKENBOMBE BAUEN KÖNNEN!"
 
-msgid "Hey {what}, let's get riggity wrecked!"
-msgstr "Hey {what}, lass uns riggity vernichten!"
+msgid "Killing %ds until something interesting happens... PICKLE PATIENCE!"
+msgstr "Töte %ds bis was Interessantes passiert... GURKENGEDULD!"
 
-msgid "Associating to {what}... don't screw this up..."
-msgstr "Verbinde mit {what}... versau das nicht..."
+msgid "Hey %s, let's get riggity wrecked! PICKLE STYLE!"
+msgstr "Hey %s, lass uns abrocken! GURKENSTYLE!"
 
-msgid "Time to pwn {what}!"
-msgstr "Zeit, {what} zu pwnen!"
+msgid "Associating to %s... DON'T SCREW THIS UP, I'M A PICKLE!"
+msgstr "Verbinde mit %s... VERKACKS NICHT, ICH BIN 'NE GURKE!"
 
-msgid "Connecting to {what}... this better not be another Jerry!"
-msgstr "Verbinde mit {what}... das sollte besser kein weiterer Jerry sein!"
+msgid "Time to pwn %s! WITH PICKLE POWER!"
+msgstr "Zeit %s zu pwnen! MIT GURKENPOWER!"
 
-msgid "{what}? Let's do this like the heist movies!"
-msgstr "{what}? Lass uns das machen wie in den Heist-Filmen!"
+msgid "Connecting to %s... THIS BETTER NOT BE JERRY!"
+msgstr "Verbinde mit %s... DAS HÖCHSTENS KEIN JERRY!"
 
-msgid "Banned {mac} to the cornfield!"
-msgstr "{mac} ins Kornfeld verbannt!"
+msgid "%s? LET'S DO THIS LIKE THE RAT FIGHTS!"
+msgstr "%s? LASS UNS DAS WIE DIE RATTENKÄMPFE MACHEN!"
 
-msgid "Deauthing {mac} like it owes me money!"
-msgstr "Deauthe {mac} als würde es mir Geld schulden!"
+msgid "Banned %s to the pickle jar!"
+msgstr "%s ins Gurkenglas verbannt!"
 
-msgid "Kicked {mac}! Show's over, go home!"
-msgstr "{mac} rausgeworfen! Show vorbei, geht nach Hause!"
+msgid "Deauthing %s like it owes me pickle juice!"
+msgstr "Deauthe %s als wär's mir Gurkensaft schuldig!"
 
-msgid "{mac} just got Cromuloned!"
-msgstr "{mac} wurde gerade Cromuloned!"
+msgid "Kicked %s! SHOW'S OVER, GO HOME!"
+msgstr "%s rausgeworfen! VORSTELLUNG VORBEI, GEHT HEIM!"
 
-msgid "Say goodbye to {mac}, Morty! Not that you care!"
-msgstr "Sag Tschüss zu {mac}, Morty! Nicht dass es dich interessieren würde!"
+msgid "%s just got PICKLED!"
+msgstr "%s wurde GURKIG GEMACHT!"
 
-msgid "Cool, we got {num} new handshake{plural}! I'm a genius!"
-msgstr "Cool, wir haben {num} neue Handshake{plural}! Ich bin ein Genie!"
+msgid "Say goodbye to %s, Morty! NOT THAT YOU CARE!"
+msgstr "Sag Tschüss zu %s, Morty! ALS OB DICH DAS INTERESSIERT!"
 
-msgid "{num} handshake{plural} captured! Like taking candy from a Jerry!"
-msgstr "{num} Handshake{plural} erbeutet! Wie einem Jerry Süßigkeiten wegnehmen!"
+msgid "Cool, we got %d new handshake%s! PICKLE POWER!"
+msgstr "Cool, wir haben %d neue Handshake%s! GURKENPOWER!"
 
-msgid "Got {num} handshake{plural}! Wubba lubba dub dub!"
-msgstr "{num} Handshake{plural} bekommen! Wubba lubba dub dub!"
+msgid "%d handshake%s captured! LIKE TAKING CANDY FROM A JERRY!"
+msgstr "%d Handshake%s erbeutet! WIE EINEM JERRY BONKWS KLAN!"
 
-msgid "{num} new handshake{plural}! I'm basically a hacker god!"
-msgstr "{num} neue Handshake{plural}! Ich bin praktisch ein Hacker-Gott!"
+msgid "Got %d handshake%s! WUBBA LUBBA PICKLE DUB!"
+msgstr "%d Handshake%s gekriegt! WUBBA LUBBA GURKENDUB!"
 
-msgid "{count} new message{plural}! Probably dumb..."
-msgstr "{count} neue Nachricht{plural}! Wahrscheinlich dumm..."
+msgid "%d new handshake%s! I'M A PICKLE HACKER GOD!"
+msgstr "%d neue Handshake%s! ICH BIN 'N GURKEN-HACKERGOTT!"
 
-msgid "You have {count} message{plural}! Unless it's about Szechuan sauce, I don't care!"
-msgstr "Du hast {count} Nachricht{plural}! Es sei denn, es geht um Szechuan-Sauce, interessiert mich nicht!"
+msgid "%d new message%s! PROBABLY DUMB..."
+msgstr "%d neue Nachricht%s! BESTIMMT DUMM..."
 
-msgid "{count} unread message{plural}! Ugh, I'm not your secretary!"
-msgstr "{count} ungelesene Nachricht{plural}! Ugh, ich bin nicht dein Sekretär!"
+msgid "You have %d message%s! UNLESS IT'S ABOUT PICKLES, I DON'T CARE!"
+msgstr "Du hast %d Nachricht%s! WENN'S NICHT UM GURKEN GEHT, INTERESSIERT'S MICH NICHT!"
 
-msgid "Message alert: {count} new! Read them yourself, Morty!"
-msgstr "Nachrichten-Alarm: {count} neu! Lies sie selbst, Morty!"
+msgid "%d unread message%s! UGH, I'M NOT YOUR SECRETARY!"
+msgstr "%d ungelesene Nachricht%s! UGH, ICH BIN NICHT DEIN SEKRETÄR!"
 
-msgid "Uh oh... rebooting... I swear this never happens!"
-msgstr "Oh oh... Neustart... Ich schwöre, das passiert nie!"
+msgid "Message alert: %d new! READ THEM YOURSELF, MORTY!"
+msgstr "Nachrichten-Alarm: %d neu! LIES SIE SELBER, MORTY!"
 
-msgid "Rebooting... must be those damn squirrels again!"
-msgstr "Starte neu... müssen wieder diese verdammten Eichhörnchen sein!"
+msgid "Uh oh... rebooting... I SWEAR THIS NEVER HAPPENS TO PICKLES!"
+msgstr "Oh oh... Neustart... PASSIERT GURKEN NORMALERWEISE NICHT!"
 
-msgid "System crash! Just like my last marriage!"
-msgstr "Systemabsturz! Genau wie meine letzte Ehe!"
+msgid "Rebooting... MUST BE THOSE DAMN RATS AGAIN!"
+msgstr "Neustart... BESTIMMT WIEDER DIE VERDAMMTEN RATTEN!"
 
-msgid "Initiating reboot... somebody get me a drink!"
-msgstr "Starte Neustart... jemand hol mir einen Drink!"
+msgid "System crash! JUST LIKE MY LAST MARRIAGE!"
+msgstr "Systemabsturz! WIE MEINE LETZTE EHE!"
 
-msgid "Wubba lubba dub dub! I mean... rebooting!"
-msgstr "Wubba lubba dub dub! Ich meine... Neustart!"
+msgid "Initiating reboot... SOMEONE GET ME A DRINK! OH WAIT..."
+msgstr "Starte Neustart... HOL MIR EINEN DRINK! OH WARTE..."
 
-msgid "Uploading to {to}... faster, Morty, faster!"
-msgstr "Lade hoch zu {to}... schneller, Morty, schneller!"
+msgid "Wubba lubba dub dub! I MEAN... PICKLE REBOOT!"
+msgstr "Wubba lubba dub dub! ICH MEINE... GURKEN-NEUSTART!"
 
-msgid "Sending data to {to}... not that you'd understand!"
-msgstr "Sende Daten zu {to}... nicht dass du es verstehen würdest!"
+msgid "Uploading to %s... FASTER, MORTY, FASTER!"
+msgstr "Lade hoch zu %s... SCHNELLER, MORTY, SCHNELLER!"
 
-msgid "Upload in progress to {to}... yawn..."
-msgstr "Upload läuft zu {to}... gähn..."
+msgid "Sending data to %s... NOT THAT A PICKLE NEEDS TO EXPLAIN!"
+msgstr "Sende Daten zu %s... ALS OB 'NE GURKE ERKLÄREN MUSS!"
 
-msgid "Transferring to {to}... I could do this manually but whatever!"
-msgstr "Übertrage zu {to}... Ich könnte das manuell machen, aber was soll's!"
+msgid "Upload in progress to %s... PICKLE YAWN..."
+msgstr "Upload läuft zu %s... GURKENGÄHNEN..."
 
-msgid "Downloading from {name}... this better not be porn!"
-msgstr "Lade herunter von {name}... das sollte besser kein Porn sein!"
+msgid "Transferring to %s... I COULD DO THIS WITH MY TONGUE!"
+msgstr "Übertrage zu %s... KÖNNTE DAS MIT MEINER ZUNGE!"
 
-msgid "Getting data from {name}... ugh, the anticipation!"
-msgstr "Hole Daten von {name}... ugh, die Vorfreude!"
+msgid "Downloading from %s... THIS BETTER NOT BE PICKLE PORN!"
+msgstr "Lade runter von %s... DAS HÖCHSTENS KEIN GURKENPORNO!"
 
-msgid "Download in progress: {name}... I need a drink!"
-msgstr "Download läuft: {name}... Ich brauche einen Drink!"
+msgid "Getting data from %s... UGH, THE ANTICIPATION!"
+msgstr "Hole Daten von %s... UGH, DIE VORFREUDE!"
 
-msgid "Fetching {name}... hope it's worth my time!"
-msgstr "Hole {name}... hoffe, es ist meine Zeit wert!"
+msgid "Download in progress: %s... I NEED A DRINK! OH WAIT..."
+msgstr "Download läuft: %s... ICH BRAUCH 'N DRINK! OH WARTE..."
 
-msgid "Kicked {num} stations"
-msgstr "{num} Stationen rausgeworfen"
+msgid "Fetching %s... HOPE IT'S WORTH MY PICKLE TIME!"
+msgstr "Hole %s... HOFFE ES IST MEINE GURKENZEIT WERT!"
 
-msgid "Made >999 new \"friends\""
-msgstr ">999 neue \"Freunde\" gemacht"
+msgid "Kicked %d stations\n"
+msgstr "%d Stationen rausgeworfen\n"
 
-msgid "Made {num} new \"friends\""
-msgstr "{num} neue \"Freunde\" gemacht"
+msgid "Made >999 new \"friends\"\n"
+msgstr ">999 neue \"Freunde\" gemacht\n"
 
-msgid "Got {num} handshakes"
-msgstr "{num} Handshakes bekommen"
+msgid "Made %d new \"friends\"\n"
+msgstr "%d neue \"Freunde\" gemacht\n"
+
+msgid "Got %d handshakes\n"
+msgstr "%d Handshakes gekriegt\n"
 
 msgid "Met 1 loser"
-msgstr "1 Verlierer getroffen"
+msgstr "1 Loser getroffen"
 
-msgid "Met {num} losers"
-msgstr "{num} Verlierer getroffen"
+msgid "Met %d losers"
+msgstr "%d Loser getroffen"
 
-msgid "Session stats:\n{status}"
-msgstr "Sitzungsstatistik:\n{status}"
+msgid "Session stats:\n%s"
+msgstr "Sessions-Statistik:\n%s"
 
-msgid "Here's your pathetic report:\n{status}"
-msgstr "Hier ist dein erbärmlicher Bericht:\n{status}"
+msgid "Here's your pathetic report:\n%s"
+msgstr "Hier dein erbärmlicher Report:\n%s"
 
-msgid "Listen Morty, check this out:\n{status}"
-msgstr "Hör zu Morty, sieh dir das an:\n{status}"
+msgid "Listen Morty, check this out:\n%s"
+msgstr "Hör zu Morty, schau dir das an:\n%s"
 
-msgid "I pwnt for {duration} and kicked {deauthed} clients! Made {associated} \"friends\" and got {handshakes} handshakes! #PwnagotchiRick #WubbaLubbaDubDub"
-msgstr "Ich habe für {duration} gepwnt und {deauthed} Clients rausgeworfen! {associated} \"Freunde\" gemacht und {handshakes} Handshakes bekommen! #PwnagotchiRick #WubbaLubbaDubDub"
+msgid "I pwnt for %s and kicked %d clients! Made %d \"friends\" and got %d handshakes! #PicklePwn #WubbaLubbaDubDub"
+msgstr "Ich hab %s gepwnt und %d Clients rausgeworfen! %d \"Freunde\" gemacht und %d Handshakes gekriegt! #GurkenPwn #WubbaLubbaDubDub"
 
-msgid "Another day, another {handshakes} handshakes collected! Pwning since {duration}! #NoobNoob #PwnLife"
-msgstr "Ein weiterer Tag, weitere {handshakes} Handshakes gesammelt! Pwne seit {duration}! #NoobNoob #PwnLife"
+msgid "Another day, another %d handshakes collected! Pwning since %s! #PickleRick #PwnLife"
+msgstr "Ein weiterer Tag, %d Handshakes gesammelt! Am pwnen seit %s! #GurkenRick #PwnLife"
 
-msgid "Stats: {duration} active, {deauthed} kicked, {associated} associated, {handshakes} handshakes. #RickestRick #Pwnagotchi"
-msgstr "Stats: {duration} aktiv, {deauthed} rausgeworfen, {associated} verbunden, {handshakes} Handshakes. #RickestRick #Pwnagotchi"
+msgid "Stats: %s active, %d kicked, %d associated, %d handshakes. #PicklePower #Pwnagotchi"
+msgstr "Stats: %s aktiv, %d rausgeworfen, %d verbunden, %d Handshakes. #GurkenPower #Pwnagotchi"
 
-msgid "{handshakes} handshakes in {duration}! Not bad for a drunk Pwnagotchi! #Schwifty #PwnLikeRick"
-msgstr "{handshakes} Handshakes in {duration}! Nicht schlecht für einen betrunkenen Pwnagotchi! #Schwifty #PwnLikeRick"
+msgid "%d handshakes in %s! Not bad for a pickle! #Schwifty #PwnLikePickleRick"
+msgstr "%d Handshakes in %s! Nicht schlecht für 'ne Gurke! #Schwifty #PwnWieGurkenRick"
 
 msgid "hours"
 msgstr "Stunden"
@@ -546,24 +549,6 @@ msgstr "Glorzooms"
 msgid "cycles"
 msgstr "Zyklen"
 
-msgid "minutes"
-msgstr "Minuten"
-
-msgid "blorpts"
-msgstr "Blorpts"
-
-msgid "ticks"
-msgstr "Ticks"
-
-msgid "seconds"
-msgstr "Sekunden"
-
-msgid "flurbos"
-msgstr "Flurbos"
-
-msgid "snaps"
-msgstr "Snaps"
-
 msgid "hour"
 msgstr "Stunde"
 
@@ -572,6 +557,15 @@ msgstr "Glorzoom"
 
 msgid "cycle"
 msgstr "Zyklus"
+
+msgid "minutes"
+msgstr "Minuten"
+
+msgid "blorpts"
+msgstr "Blorpts"
+
+msgid "ticks"
+msgstr "Ticks"
 
 msgid "minute"
 msgstr "Minute"
@@ -582,6 +576,15 @@ msgstr "Blorpt"
 msgid "tick"
 msgstr "Tick"
 
+msgid "seconds"
+msgstr "Sekunden"
+
+msgid "flurbos"
+msgstr "Flurbos"
+
+msgid "snaps"
+msgstr "Snaps"
+
 msgid "second"
 msgstr "Sekunde"
 
@@ -590,3 +593,39 @@ msgstr "Flurbo"
 
 msgid "snap"
 msgstr "Snap"
+
+msgid "pickle cycles"
+msgstr "Gurkenzyklen"
+
+msgid "binge sessions"
+msgstr "Sauf-Sessions"
+
+msgid "pickle ticks"
+msgstr "Gurkenticks"
+
+msgid "rat fights"
+msgstr "Rattenkämpfe"
+
+msgid "pickle snaps"
+msgstr "Gurkensnaps"
+
+msgid "vodka shots"
+msgstr "Wodka-Shots"
+
+msgid "pickle cycle"
+msgstr "Gurkenzyklus"
+
+msgid "binge session"
+msgstr "Sauf-Session"
+
+msgid "pickle tick"
+msgstr "Gurkentick"
+
+msgid "rat fight"
+msgstr "Rattenkampf"
+
+msgid "pickle snap"
+msgstr "Gurkensnap"
+
+msgid "vodka shot"
+msgstr "Wodka-Shot"
